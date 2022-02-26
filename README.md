@@ -10,7 +10,10 @@
 My name is Gabriel and I am 18 years old.
 
 - 📚 I love learning new things
-- 💻 I’m currently learning C# and Javascript
+- 💻 I am currently learning C# and Javascript
+- 💼 I am looking for a new job opportunity
+- 😄 I have a extroverted personality
+- 🤝🏻 I like meeting new people
 
 ## 💻 Technologies & Tools
 
