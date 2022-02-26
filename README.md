@@ -6,9 +6,8 @@
 </div>
 
 ### Hey there 👋
-#### Welcome to my profile!
 
-My name is Gabriel and let me tell you about myself:
+My name is Gabriel.
 
 ## 💻 Technologies & Tools
 
