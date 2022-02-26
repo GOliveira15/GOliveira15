@@ -1,5 +1,4 @@
 # Gabriel Oliveira 👨🏻‍💻
-----
 
 <!--
 **GOliveira15/GOliveira15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
