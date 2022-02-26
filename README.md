@@ -2,7 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveirasilva/)](https://www.linkedin.com/in/gabrieloliveirasilva/)
 
-### Hey there 👋 \n Welcome to my profile!
+### Hey there 👋
+#### Welcome to my profile!
 
 <!--
 **GOliveira15/GOliveira15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
