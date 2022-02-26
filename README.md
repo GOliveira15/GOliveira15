@@ -10,6 +10,8 @@
 
 My name is Gabriel and let me tell you about myself:
 
+## 💻 Technologies & Tools
+
 ## ⚡ GitHub Stats
 
 <div align="center">
