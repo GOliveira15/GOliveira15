@@ -9,6 +9,9 @@
 
 My name is Gabriel.
 
+- 📚 I love learning new things
+- 💻 I’m currently learning C# and Javascript
+
 ## 💻 Technologies & Tools
 
 <div style="display: inline_block">
