@@ -1,6 +1,9 @@
 # Gabriel Oliveira 👨🏻‍💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieloliveirasilva/)](https://www.linkedin.com/in/gabrieloliveirasilva/)
+<div>
+  <a href="https://www.linkedin.com/in/gabrieloliveirasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatogabrieloliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ### Hey there 👋
 #### Welcome to my profile!
