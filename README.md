@@ -11,7 +11,7 @@ My name is Gabriel.
 
 ## 💻 Technologies & Tools
 
-## ⚡ GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/GOliveira15">
