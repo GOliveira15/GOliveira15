@@ -2,13 +2,15 @@
 
 <div>
   <a href="https://www.linkedin.com/in/gabrieloliveirasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatogabrieloliveira@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatogabrieloliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
 ### Hey there 👋
 #### Welcome to my profile!
 
 My name is Gabriel and let me tell you about myself:
+
+## ⚡ GitHub Stats
 
 <div align="center">
   <a href="https://github.com/GOliveira15">
