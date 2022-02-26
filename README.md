@@ -7,7 +7,7 @@
 
 ### Hey there 👋
 
-My name is Gabriel.
+My name is Gabriel and I am 18 years old.
 
 - 📚 I love learning new things
 - 💻 I’m currently learning C# and Javascript
