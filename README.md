@@ -5,6 +5,8 @@
 ### Hey there 👋
 #### Welcome to my profile!
 
+My name is Gabriel and let me tell you about myself:
+
 <!--
 **GOliveira15/GOliveira15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
