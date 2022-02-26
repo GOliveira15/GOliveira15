@@ -15,6 +15,8 @@ My name is Gabriel and I am 18 years old.
 - 😄 I have a extroverted personality
 - 🤝🏻 I like meeting new people
 
+Interested in software development, UX/UI design, Scrum methodology.
+
 ## 💻 Technologies & Tools
 
 <div style="display: inline_block">
