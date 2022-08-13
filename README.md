@@ -5,7 +5,7 @@
   <a href = "mailto:contatogabrieloliveira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
 
-### Hey there 👋
+### Hello, World! 👋
 
 My name is Gabriel and I am 18 years old.
 
@@ -16,6 +16,8 @@ My name is Gabriel and I am 18 years old.
 - 🤝🏻 I like meeting new people
 
 Interested in software development, UX/UI design, Scrum methodology.
+
+Languages: English, Portuguese and Spanish.
 
 ## 💻 Technologies & Tools
 
