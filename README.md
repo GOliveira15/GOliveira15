@@ -7,15 +7,15 @@
 
 ### Hello, World! 👋
 
-My name is Gabriel and I am 18 years old.
+My name is Gabriel and I am 19 years old.
 
 - 📚 I love learning new things
-- 💻 I am currently learning C# and Angular
-- 💼 I am a Software Trainee
+- 💻 I am currently learning SQL, Python and data tools
+- 💼 I am a Data Trainee
 - 😄 I have an extroverted personality
 - 🤝🏻 I like meeting new people
 
-Interested in software development, UX/UI design, Scrum methodology.
+Interested in data analysis, data engineering, software development, UX/UI design, Scrum methodology.
 
 Languages: English, Portuguese and Spanish.
 
