@@ -7,11 +7,11 @@
 
 ### Hello, World! 👋
 
-My name is Gabriel and I am 19 years old.
+My name is Gabriel and I am 20 years old.
 
 - 📚 I love learning new things
 - 💻 Currently, I am learning SQL, Python and data tools
-- 💼 I am working as a Data Trainee
+- 💼 I am working as a Business Intelligence Assistant
 - 😄 I have an extroverted personality
 - 🤝🏻 I like meeting new people
 
