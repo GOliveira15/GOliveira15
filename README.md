@@ -7,15 +7,12 @@
 
 ### Hello, World! 👋
 
-My name is Gabriel and I am 20 years old.
+My name is Gabriel and I am 21 years old.
 
-- 📚 I love learning new things
-- 💻 Currently, I am learning SQL, Python and data tools
-- 💼 I am working as a Business Intelligence Assistant
-- 😄 I have an extroverted personality
-- 🤝🏻 I like meeting new people
+- 💼 I am currently working as a Junior Data Analyst
+- 💻 I have worked with Excel, Power BI, SQL and Microsoft Azure
 
-Interested in data analysis, data engineering, software development, UX/UI design, Scrum methodology.
+Interested in data analysis, data engineering, software development, UX/UI design, project management.
 
 Languages: English, Portuguese and Spanish.
 
@@ -31,9 +28,6 @@ Languages: English, Portuguese and Spanish.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
