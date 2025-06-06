@@ -10,7 +10,7 @@
 My name is Gabriel and I am 21 years old.
 
 - 💼 I am currently working as a Junior Data Analyst
-- 💻 I have worked with Excel, Power BI, SQL and Microsoft Azure
+- 💻 I have worked with Power BI, Excel, SQL and Microsoft Azure
 
 Interested in data analysis, data engineering, software development, UX/UI design, project management.
 
