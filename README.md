@@ -7,7 +7,7 @@
 
 ### Hello, World! 👋
 
-My name is Gabriel and I am 21 years old.
+My name is Gabriel.
 
 - 💼 I am currently working as a Junior Data Analyst
 - 💻 I have worked with Power BI, Excel, SQL and Microsoft Azure
